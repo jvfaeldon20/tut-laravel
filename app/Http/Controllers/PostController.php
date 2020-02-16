@@ -35,6 +35,7 @@ class PostController extends Controller
 
         dd(request()->all());
         // serialize post
+        // display
 
         
     }
